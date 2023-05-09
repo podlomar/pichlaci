@@ -12,3 +12,8 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
+
+.banner {
+  width: 100%;
+  height: auto;
+}
